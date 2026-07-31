@@ -1,108 +1,85 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Consulte rapidamente películas compatíveis com diferentes modelos de celulares.">
+  <meta name="theme-color" content="#2563eb">
+  <title>Películas Compatíveis</title>
 
-    <meta
-        name="viewport"
-        content="width=device-width, initial-scale=1.0"
-    >
-
-    <meta
-        name="description"
-        content="Consulte películas compatíveis com diferentes modelos de celulares."
-    >
-
-    <title>Películas Compatíveis</title>
-
-    <link rel="stylesheet" href="css/style.css">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/style.css">
 </head>
-
 <body>
-    <header class="cabecalho">
-        <div class="container cabecalho-conteudo">
-            <div class="marca">
-                <div class="icone-marca">📱</div>
-
-                <div>
-                    <h1>Películas Compatíveis</h1>
-                    <p>Encontre rapidamente a película ideal</p>
-                </div>
-            </div>
+  <header class="topo">
+    <div class="container topo-conteudo">
+      <div class="marca">
+        <div class="logo">📱</div>
+        <div>
+          <h1>Películas Compatíveis</h1>
+          <p>Consulte em segundos a película ideal</p>
         </div>
-    </header>
+      </div>
 
-    <main class="container">
-        <section class="area-pesquisa">
-            <div class="card-pesquisa">
-                <span class="etiqueta">Consulta rápida</span>
+      <button id="btnTema" class="btn-icone" type="button" aria-label="Alternar tema">
+        🌙
+      </button>
+    </div>
+  </header>
 
-                <h2>Qual é o modelo do celular?</h2>
+  <main class="container">
+    <section class="hero">
+      <span class="tag">Consulta rápida</span>
+      <h2>Qual é o modelo do celular?</h2>
+      <p>Digite o nome completo ou apenas parte do modelo.</p>
 
-                <p class="descricao">
-                    Digite o nome ou parte do modelo para consultar
-                    as películas compatíveis.
-                </p>
+      <div class="caixa-busca">
+        <span class="icone-busca">🔎</span>
+        <input
+          id="campoPesquisa"
+          type="search"
+          placeholder="Ex.: A55, Galaxy A15, Redmi Note 13..."
+          autocomplete="off"
+          autofocus
+        >
+        <button id="btnLimpar" type="button" class="btn-limpar" hidden>✕</button>
+      </div>
 
-                <form id="formPesquisa" class="form-pesquisa">
-                    <label for="campoPesquisa">
-                        Modelo do aparelho
-                    </label>
+      <div class="acoes">
+        <span id="mensagem">Carregando base de dados...</span>
+        <button id="btnInstalar" class="btn-secundario" type="button" hidden>
+          📲 Instalar aplicativo
+        </button>
+      </div>
+    </section>
 
-                    <div class="grupo-pesquisa">
-                        <input
-                            type="search"
-                            id="campoPesquisa"
-                            placeholder="Ex.: Galaxy A55, Redmi Note 13..."
-                            autocomplete="off"
-                        >
-
-                        <button type="submit">
-                            Pesquisar
-                        </button>
-                    </div>
-                </form>
-
-                <p id="mensagem" class="mensagem">
-                    Digite um modelo para iniciar.
-                </p>
-            </div>
-        </section>
-
-        <section id="areaResultados" class="area-resultados">
-            <div class="titulo-resultados">
-                <div>
-                    <span class="etiqueta">Resultados</span>
-                    <h2>Películas encontradas</h2>
-                </div>
-
-                <span id="quantidadeResultados" class="contador">
-                    0 resultados
-                </span>
-            </div>
-
-            <div id="listaResultados" class="lista-resultados">
-                <div class="estado-vazio">
-                    <div class="icone-vazio">🔍</div>
-
-                    <h3>Nenhuma pesquisa realizada</h3>
-
-                    <p>
-                        Os modelos encontrados aparecerão aqui.
-                    </p>
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <footer class="rodape">
-        <div class="container">
-            <p>
-                Películas Compatíveis — consulta rápida e gratuita.
-            </p>
+    <section class="resultados">
+      <div class="cabecalho-resultados">
+        <div>
+          <span class="tag">Resultados</span>
+          <h2>Películas encontradas</h2>
         </div>
-    </footer>
+        <span id="contador" class="contador">0 resultados</span>
+      </div>
 
-    <script src="js/script.js"></script>
+      <div id="listaResultados" class="lista-resultados">
+        <div class="estado-vazio">
+          <div class="icone-vazio">🔍</div>
+          <h3>Comece uma pesquisa</h3>
+          <p>Digite pelo menos 2 caracteres para consultar.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>Películas Compatíveis — consulta rápida, gratuita e instalável.</p>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
 </body>
 </html>
