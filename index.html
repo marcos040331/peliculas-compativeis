@@ -8,12 +8,101 @@
         content="width=device-width, initial-scale=1.0"
     >
 
+    <meta
+        name="description"
+        content="Consulte películas compatíveis com diferentes modelos de celulares."
+    >
+
     <title>Películas Compatíveis</title>
+
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
-    <h1>Películas Compatíveis</h1>
+    <header class="cabecalho">
+        <div class="container cabecalho-conteudo">
+            <div class="marca">
+                <div class="icone-marca">📱</div>
 
-    <p>Site criado com sucesso.</p>
+                <div>
+                    <h1>Películas Compatíveis</h1>
+                    <p>Encontre rapidamente a película ideal</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="area-pesquisa">
+            <div class="card-pesquisa">
+                <span class="etiqueta">Consulta rápida</span>
+
+                <h2>Qual é o modelo do celular?</h2>
+
+                <p class="descricao">
+                    Digite o nome ou parte do modelo para consultar
+                    as películas compatíveis.
+                </p>
+
+                <form id="formPesquisa" class="form-pesquisa">
+                    <label for="campoPesquisa">
+                        Modelo do aparelho
+                    </label>
+
+                    <div class="grupo-pesquisa">
+                        <input
+                            type="search"
+                            id="campoPesquisa"
+                            placeholder="Ex.: Galaxy A55, Redmi Note 13..."
+                            autocomplete="off"
+                        >
+
+                        <button type="submit">
+                            Pesquisar
+                        </button>
+                    </div>
+                </form>
+
+                <p id="mensagem" class="mensagem">
+                    Digite um modelo para iniciar.
+                </p>
+            </div>
+        </section>
+
+        <section id="areaResultados" class="area-resultados">
+            <div class="titulo-resultados">
+                <div>
+                    <span class="etiqueta">Resultados</span>
+                    <h2>Películas encontradas</h2>
+                </div>
+
+                <span id="quantidadeResultados" class="contador">
+                    0 resultados
+                </span>
+            </div>
+
+            <div id="listaResultados" class="lista-resultados">
+                <div class="estado-vazio">
+                    <div class="icone-vazio">🔍</div>
+
+                    <h3>Nenhuma pesquisa realizada</h3>
+
+                    <p>
+                        Os modelos encontrados aparecerão aqui.
+                    </p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="rodape">
+        <div class="container">
+            <p>
+                Películas Compatíveis — consulta rápida e gratuita.
+            </p>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
 </body>
 </html>
