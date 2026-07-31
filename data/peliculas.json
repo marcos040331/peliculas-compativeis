@@ -1,1 +1,1762 @@
-
+[
+  {
+    "modelo": "Apple iPhone 6",
+    "compativeis": "iPhone 6G, iPhone 6S, iPhone 7"
+  },
+  {
+    "modelo": "Apple iPhone 6 Plus",
+    "compativeis": "iPhone 6s+, iPhone 6s + Plus"
+  },
+  {
+    "modelo": "Apple iPhone 7",
+    "compativeis": "iPhone 7G, iPhone 8, iPhone 8G, SE 2020"
+  },
+  {
+    "modelo": "Apple iPhone 7 Plus",
+    "compativeis": "iPhone 8 Plus +,"
+  },
+  {
+    "modelo": "Apple iPhone 8",
+    "compativeis": "iPhone 7, 7G, iPhone SE 2020"
+  },
+  {
+    "modelo": "Apple iPhone 8 Plus",
+    "compativeis": "iPhone 7 Plus, iPhone 7 +"
+  },
+  {
+    "modelo": "Apple iPhone SE 2016",
+    "compativeis": "iPhone 5G"
+  },
+  {
+    "modelo": "Apple iPhone SE 2020",
+    "compativeis": "iPhone 7, iPhone 8"
+  },
+  {
+    "modelo": "Apple iPhone SE 2022",
+    "compativeis": "iPhone 7G, iPhone 7, iPhone 8, iPhone 8G"
+  },
+  {
+    "modelo": "Apple iPhone X",
+    "compativeis": "iPhone XS, iPhone 11 Pro"
+  },
+  {
+    "modelo": "Apple iPhone XS",
+    "compativeis": "iPhone X, iPhone 11 Pro"
+  },
+  {
+    "modelo": "Apple iPhone XS Max",
+    "compativeis": "iPhone 11 Pro Max"
+  },
+  {
+    "modelo": "Apple iPhone XR",
+    "compativeis": "iPhone 11, iphone 12, iphone 12 Pro"
+  },
+  {
+    "modelo": "Apple iPhone 11",
+    "compativeis": "iPhone XR, Iphone 12, Iphone 12 Pro"
+  },
+  {
+    "modelo": "Apple iPhone 11 Pro",
+    "compativeis": "iPhone X, iPhone XS"
+  },
+  {
+    "modelo": "Apple iPhone 12",
+    "compativeis": "iPhone 12 Pro, iPhone 11"
+  },
+  {
+    "modelo": "Apple iPhone 13",
+    "compativeis": "iPhone 13 Pro, Iphone 14, Iphone 14 Pro"
+  },
+  {
+    "modelo": "Apple iPhone 13 Pro Max",
+    "compativeis": "iPhone 14 Pro Max, Iphone 13 Plus, Iphone 14 Max"
+  },
+  {
+    "modelo": "Apple iPhone 13 Pro",
+    "compativeis": "iPhone 13, iphone 14, iphone 14 Pro"
+  },
+  {
+    "modelo": "Apple iPhone 14",
+    "compativeis": "iPhone 13, iPhone 13 Pro"
+  },
+  {
+    "modelo": "Apple iPhone 14 Plus",
+    "compativeis": "iPhone 13 Pro Max"
+  },
+  {
+    "modelo": "Apple iPhone 14 Pro Max",
+    "compativeis": "iPhone 13 Pro Max"
+  },
+  {
+    "modelo": "Apple iPhone 14 Pro",
+    "compativeis": "iphone 15 Pro, iphone 15"
+  },
+  {
+    "modelo": "Apple iPhone 15",
+    "compativeis": "iphone 15, iphone 14 Pro"
+  },
+  {
+    "modelo": "Apple iPhone 15 Plus",
+    "compativeis": "iphone 15 Pro Max, iphone 14 Pro Max"
+  },
+  {
+    "modelo": "Apple iPhone 15 Pro",
+    "compativeis": "iphone 15, iphone 14 Pro"
+  },
+  {
+    "modelo": "Apple iPhone 15 Pro Max",
+    "compativeis": "iphone 15 Plus, iphone 14 Pro Max"
+  },
+  {
+    "modelo": "Infinix Hot 20 5G",
+    "compativeis": "Samsung Galaxy A13, A23"
+  },
+  {
+    "modelo": "Infinix Hot 20S",
+    "compativeis": "Hot 11S, Hot 30, Hot 40, Hot 40 Pro, Xiaomi Redmi 12, Note 30"
+  },
+  {
+    "modelo": "Infinix Hot 20i",
+    "compativeis": "Hot 10i, Samsung Galaxy A02, A02S, A03, A03S, A04, A04S, A04E, A12, A13, A22 4G, A23, A32, M12, Motorola Moto G9 Play, G10, G20, G30, G50, E7, E7 Power, E7 Plus, E22"
+  },
+  {
+    "modelo": "Infinix Hot 30",
+    "compativeis": "Hot 11S, Hot 20S, Hot 40, Hot 40 Pro, Note 30, Xiaomi Redmi 12, Motorola Moto G13, G14, G32, G54, G62"
+  },
+  {
+    "modelo": "Infinix Hot 30i",
+    "compativeis": "Samsung Galaxy A02, A03, A04, A12, A13, A32 5G, M13, Moto E13"
+  },
+  {
+    "modelo": "Infinix GT 10 Pro",
+    "compativeis": "Xiaomi Redmi 13 4G, Note 13 5G"
+  },
+  {
+    "modelo": "Infinix Note 30",
+    "compativeis": "Hot 11S, Hot 20S, Hot 30, Hot 40, Hot 40 Pro, Xiaomi Redmi 12"
+  },
+  {
+    "modelo": "Infinix Hot 40",
+    "compativeis": "Hot 40i, Xiaomi Redmi Note 13, Note 13T Pro, Poco F5 Pro, Motorola Moto G13, G14, G32, G54, G62, G71, G73,"
+  },
+  {
+    "modelo": "Infinix Hot 40i",
+    "compativeis": "Hot 40, Xiaomi Redmi Note 13, Note 13T Pro, Poco F5 Pro, Motorola Moto G13, G14, G32, G54, G62, G71, G73,"
+  },
+  {
+    "modelo": "Infinix Zero",
+    "compativeis": "Xiaomi Redmi Note 12 4G, Poco X5"
+  },
+  {
+    "modelo": "Infinix Hot 50i",
+    "compativeis": "Xiaomi Redmi Note 12 4G, Poco X6, Poco M3 Pro 5G, Motorola Moto G04, G15, G35, E40"
+  },
+  {
+    "modelo": "Infinix Note 30 Pro",
+    "compativeis": "Xiaomi Redmi Note 13, Note 14, Poco F5 Pro, Motorola Moto G13, G14, G54, G71S"
+  },
+  {
+    "modelo": "Infinix Note 10 Pro",
+    "compativeis": "Motorola Moto G9 Plus, G9 Power"
+  },
+  {
+    "modelo": "LG K4 2017",
+    "compativeis": "LG K9 TV"
+  },
+  {
+    "modelo": "LG K8 Plus",
+    "compativeis": "LG K20"
+  },
+  {
+    "modelo": "LG K8 2018",
+    "compativeis": "LG K9 TV"
+  },
+  {
+    "modelo": "LG K9 TV",
+    "compativeis": "LG K4 2017, LG K8 2018"
+  },
+  {
+    "modelo": "LG K10",
+    "compativeis": "LG K8"
+  },
+  {
+    "modelo": "LG K10 2017",
+    "compativeis": "LG K11, LG K11 Plus, LG K11 +"
+  },
+  {
+    "modelo": "LG K11",
+    "compativeis": "K11 Plus, LG K10 2017"
+  },
+  {
+    "modelo": "LG K12 Plus",
+    "compativeis": "LG K40"
+  },
+  {
+    "modelo": "LG K12 Max",
+    "compativeis": "LG K12 Prime, Note 7"
+  },
+  {
+    "modelo": "LG K20",
+    "compativeis": "LG K8 Plus"
+  },
+  {
+    "modelo": "LG K22",
+    "compativeis": "LG K22 Plus, Samsung A10, A10S, A20"
+  },
+  {
+    "modelo": "LG K22 Plus",
+    "compativeis": "Samsung A20, A30"
+  },
+  {
+    "modelo": "LG k31",
+    "compativeis": "LG Q31"
+  },
+  {
+    "modelo": "LG K40S",
+    "compativeis": "Samsung A10, M10, Motorola Moto E6 Plus, E6S"
+  },
+  {
+    "modelo": "LG K41S",
+    "compativeis": "Samsung Galaxy A14, LG K50S, LG K62, LG K62 Plus, Motorola Moto One Fusion"
+  },
+  {
+    "modelo": "LG K42",
+    "compativeis": "LG K52, LG K62, LG K62 Plus"
+  },
+  {
+    "modelo": "LG K50S",
+    "compativeis": "LG K41S"
+  },
+  {
+    "modelo": "LG K51S",
+    "compativeis": "LG K61, Xiaomi Mi 10T"
+  },
+  {
+    "modelo": "LG K52",
+    "compativeis": "LG K42, LG K62 Plus, Samsung A71"
+  },
+  {
+    "modelo": "LG K61",
+    "compativeis": "LG K51S, Xiaomi Mi 10T"
+  },
+  {
+    "modelo": "LG K62",
+    "compativeis": "LG K62 Plus, LG K42, LG K52"
+  },
+  {
+    "modelo": "LG K62 Plus",
+    "compativeis": "LG K62, LG K42, LG K52"
+  },
+  {
+    "modelo": "LG Q6 Plus",
+    "compativeis": "Q7 Plus"
+  },
+  {
+    "modelo": "Samsung Galaxy A01",
+    "compativeis": "M01, Xiaomi mi9 SE, Mi Play,"
+  },
+  {
+    "modelo": "Samsung Galaxy A01 core",
+    "compativeis": "M01 Core, Moto E6 Play, iPhone X"
+  },
+  {
+    "modelo": "Samsung Galaxy A02",
+    "compativeis": "A02 A022F, A02S, A03, A03S, A03 Core A04, A04S, A04E, A12, A13, A23, A70, M12, G20, Moto G9 Play, K50S, Realme C25"
+  },
+  {
+    "modelo": "Samsung Galaxy A02s",
+    "compativeis": "A02 A022F, A03, A03S, A03 Core, A04, A04S, A04E, A12, A13, A23, A70, M12, G20, Moto G9 Play"
+  },
+  {
+    "modelo": "Samsung Galaxy A03",
+    "compativeis": "A02, A02S, A03S, A03 Core, A04, A04S, A04E, A12, A13, A23, A70, M12, G10, G30, K50S Realme C25,"
+  },
+  {
+    "modelo": "Samsung Galaxy A03 core",
+    "compativeis": "A02S, A03, A03S, A04, A04E, A12, A13, A23, A70, M12, G10, G30, K50S, Realme C25,"
+  },
+  {
+    "modelo": "Samsung Galaxy A03s",
+    "compativeis": "A02S, A03, A03 Core, A04, A04S, A04E, A12, A13, A70, M12, G10, G30"
+  },
+  {
+    "modelo": "Samsung Galaxy A04",
+    "compativeis": "A03S, A04, A04E, A02, A02S, A03, A03S, A03Core, A12, A13, M12, A70, G30, E7 PLUS, E20, Redmi 9A Sport"
+  },
+  {
+    "modelo": "Samsung Galaxy A04s",
+    "compativeis": "A02, A02S, A03, A03S, A03 Core, A04, A04E, A12, A13, M12"
+  },
+  {
+    "modelo": "Samsung Galaxy A04E",
+    "compativeis": "A04, A04S, A02, A02S, A03, A03S, A03Core, A12, A13, M12"
+  },
+  {
+    "modelo": "Samsung Galaxy A05",
+    "compativeis": "A05S, Redmi 13C, Poco C65"
+  },
+  {
+    "modelo": "Samsung Galaxy A06",
+    "compativeis": "A05, A05S, Redmi 13C, Realme Note 50, Realme C53, Realme C51, Realme C61, Poco C65"
+  },
+  {
+    "modelo": "Samsung Galaxy A10",
+    "compativeis": "A10S, M10, M20, G7 Plus, G8 Plus, G8 Play, E6s, Redmi 8, K22, K10S"
+  },
+  {
+    "modelo": "Samsung Galaxy A10s",
+    "compativeis": "A10, M10, M20, G7 Plus, G8 Plus G8 Play, E6s, Redmi 8, K22, K10S"
+  },
+  {
+    "modelo": "Samsung Galaxy A11",
+    "compativeis": "A71, M11, G8, One Fusion Plus, One Hyper, Note 9 5G"
+  },
+  {
+    "modelo": "Samsung Galaxy A12",
+    "compativeis": "A02, A02S, A03, A03S, , A04, A04s, A04e, M32 5G, M12, M04, M02, F04, F02s, Redmi A1, Moto E20, One Fusion, Realme 50A, C33, C33 2023, C31 C30, C30s, C25, C27i, Poco C3 A20S, A13 5G, A32 5G, M12, Note 9 4G, K50s, K50"
+  },
+  {
+    "modelo": "Samsung Galaxy A13",
+    "compativeis": "A02, A02S, A03, A03S, A03 Core, A04, A04S, A04E, A12, A32 5G, A42, M12, M13, G9 Play, G10, G20, G30"
+  },
+  {
+    "modelo": "Samsung Galaxy A14 4G",
+    "compativeis": "A02, A03, A04, A05, A05S, A14 5G, A13, M14, A22 5G, Motorola Moto G9 Play, G10, G20, G30, G50, E7 Power, E7 Plus, E20, Infinix Hot 20i"
+  },
+  {
+    "modelo": "Samsung Galaxy A14 5G",
+    "compativeis": "A02, A03, A04, A05, A05S, A13, A14 4G, M14, A22 5G, Motorola Moto G9 Play, G10, G20, G30, G50, E7 Power, E7 Plus, E21, Infinix Hot 20i"
+  },
+  {
+    "modelo": "Samsung Galaxy A15",
+    "compativeis": "A24, A25, A34, M15, M34, M23 5G, F34, S22 Plus, S23 Fe"
+  },
+  {
+    "modelo": "Samsung Galaxy A20",
+    "compativeis": "A30, A30s, A31, A50, A50s, M31, G8 Plus, Note 7, Note 8, K40s"
+  },
+  {
+    "modelo": "Samsung Galaxy A20s",
+    "compativeis": "A12, A70, One Fusion, K41s, K50s"
+  },
+  {
+    "modelo": "Samsung Galaxy A21",
+    "compativeis": "A21, A21S"
+  },
+  {
+    "modelo": "Samsung Galaxy A21s",
+    "compativeis": "A21, Oppo A36, Oppo A76"
+  },
+  {
+    "modelo": "Samsung Galaxy A22 4g",
+    "compativeis": "A31, A32, A33, M31, M32"
+  },
+  {
+    "modelo": "Samsung Galaxy A22 5G",
+    "compativeis": "A23, A23 5G, A32 5G"
+  },
+  {
+    "modelo": "Samsung Galaxy A23",
+    "compativeis": "A04, A12, A22 5G, A23 5G, A32 5G, A70"
+  },
+  {
+    "modelo": "Samsung Galaxy A24",
+    "compativeis": "A34, M24"
+  },
+  {
+    "modelo": "Samsung Galaxy A30",
+    "compativeis": "A20, A30S, A31, A50, A50s, M31, G8 Plus, Note 7, Note 8, Redmi 8, K40s"
+  },
+  {
+    "modelo": "Samsung Galaxy A30s",
+    "compativeis": "A20, A22, A30, A50, A50S, M31, G8 Plus, Note 7, Redmi 8, K40s"
+  },
+  {
+    "modelo": "Samsung Galaxy A32 4G",
+    "compativeis": "A22, A33"
+  },
+  {
+    "modelo": "Samsung Galaxy A32 5G",
+    "compativeis": "A12, A20s, Note 9, K50s"
+  },
+  {
+    "modelo": "Samsung Galaxy A33",
+    "compativeis": "A32"
+  },
+  {
+    "modelo": "Samsung Galaxy A34",
+    "compativeis": "G13, G23, G73"
+  },
+  {
+    "modelo": "Samsung Galaxy A35",
+    "compativeis": "A55, M35, S22 Plus, S23 Plus, Iphone 15 Pro Max, iphone 14 Pro Max, 13 Pro Max"
+  },
+  {
+    "modelo": "Samsung Galaxy A5 2015",
+    "compativeis": "Gram Prime G532, G530"
+  },
+  {
+    "modelo": "Samsung Galaxy A5 A500",
+    "compativeis": "J2 Prime, Grand Prime, J5"
+  },
+  {
+    "modelo": "Samsung Galaxy A50",
+    "compativeis": "A20, A22 A20, A30, A50, A50S, M31"
+  },
+  {
+    "modelo": "Samsung Galaxy A50S",
+    "compativeis": "A20, A30, A31, A50, M31, K40s"
+  },
+  {
+    "modelo": "Samsung Galaxy A51",
+    "compativeis": "A52, A52s, A52 5G, S20 FE, M31S, Note 10, Note 11"
+  },
+  {
+    "modelo": "Samsung Galaxy A52 4G",
+    "compativeis": "A52 5G, A53, A51, S20 FE, S20 FE 5G, Note 10, Note 10s, Note 11, Poco M5s, Moto G42, Moto G84"
+  },
+  {
+    "modelo": "Samsung Galaxy A52s 5G",
+    "compativeis": "A52s, A52 4G, A53, A51, S20 FE, S20 FE 5G, Note 10, Note 10s, Note 11, Poco M5s, Moto G42, Moto G84"
+  },
+  {
+    "modelo": "Samsung Galaxy A53",
+    "compativeis": "A52, A52S"
+  },
+  {
+    "modelo": "Samsung Galaxy A54",
+    "compativeis": "S22 Plus, S23 FE"
+  },
+  {
+    "modelo": "Samsung Galaxy A55",
+    "compativeis": "A35"
+  },
+  {
+    "modelo": "Samsung Galaxy A7 2016 A710",
+    "compativeis": "J7 Metal, On 7, J2 Prime, A5 2017"
+  },
+  {
+    "modelo": "Samsung Galaxy A7 2018 A750",
+    "compativeis": "J4 Plus, J6 Plus, J8"
+  },
+  {
+    "modelo": "Samsung Galaxy A70",
+    "compativeis": "A02, A02s, A03, A90 5G"
+  },
+  {
+    "modelo": "Samsung Galaxy A71",
+    "compativeis": "A72, M51, M62, F62, Note 9S, Note 10 Lite, Note 11 Pro"
+  },
+  {
+    "modelo": "Samsung Galaxy A72",
+    "compativeis": "M52 ƒ?? M53"
+  },
+  {
+    "modelo": "Samsung Galaxy A73",
+    "compativeis": "Note 10 Lite, Note 11, Note 11 Pro"
+  },
+  {
+    "modelo": "Samsung Galaxy A74",
+    "compativeis": "A74 5G, A94 5G, A21, A22, A31, A32 5G, M62, M52, M53, M54"
+  },
+  {
+    "modelo": "Samsung Galaxy A8+",
+    "compativeis": "A8 Plus, A6 Plus, J8, Redmi 5 Plus, Redmi S2"
+  },
+  {
+    "modelo": "Samsung Galaxy A80",
+    "compativeis": "A21S, LG K62, Moto G62, Xiaomi Redmi Note 9 Pro, Note 9 Pro Max, Note 10 Lite, Note 12, Poco X5"
+  },
+  {
+    "modelo": "Samsung Galaxy A9 2018 A920",
+    "compativeis": "J4 Plus, J6 Plus, J8, J8 Plus"
+  },
+  {
+    "modelo": "Samsung Galaxy A90 5G",
+    "compativeis": "A70, A02s"
+  },
+  {
+    "modelo": "Samsung Galaxy A91",
+    "compativeis": "Note 10, Note 10 Plus, Note 10 Lite, Note 11, Note 11 Pro"
+  },
+  {
+    "modelo": "Samsung Galaxy A92",
+    "compativeis": "Note 10 Plus, Note 10 Lite, Note 11, Note 11 Pro, S21, S21 Plus, S21 Ultra"
+  },
+  {
+    "modelo": "Samsung Galaxy A93",
+    "compativeis": "S21, S21 Plus, S21 Ultra"
+  },
+  {
+    "modelo": "Samsung Galaxy A94 5G",
+    "compativeis": "A74, A74 5G, A21, A22 5G, A32 5G, A52S, A93, S22, S22 Plus, S22 Ultra"
+  },
+  {
+    "modelo": "Samsung Galaxy Gram Prime",
+    "compativeis": "G532, G530, A5 2015, J2 Prime"
+  },
+  {
+    "modelo": "Samsung Galaxy J1 J120 2016",
+    "compativeis": "Win 8552"
+  },
+  {
+    "modelo": "Samsung Galaxy J2 core",
+    "compativeis": "Moto C Plus, Lenovo C2, Moto C"
+  },
+  {
+    "modelo": "Samsung Galaxy J2 Prime",
+    "compativeis": "Gram Prime G532, G530, A5 2015, J3, J5, A5 2015"
+  },
+  {
+    "modelo": "Samsung Galaxy J3 2016",
+    "compativeis": "J2 Priime, J5, A5 2015"
+  },
+  {
+    "modelo": "Samsung Galaxy J4",
+    "compativeis": "J4 2018"
+  },
+  {
+    "modelo": "Samsung Galaxy J4 Core",
+    "compativeis": "J4 Plus, J6 Plus, J6 Core, J8, K12 Plus"
+  },
+  {
+    "modelo": "Samsung Galaxy J4 Plus e J6 Plus",
+    "compativeis": "A8, A6 Plus, J4 Core, J6 Plus, J6 Core, J8, LG K12 Plus"
+  },
+  {
+    "modelo": "Samsung Galaxy J5 J500",
+    "compativeis": "J2 Prime, J3, A5 2015, S6"
+  },
+  {
+    "modelo": "Samsung Galaxy J5 Metal J510",
+    "compativeis": "J2 Prime, A5 2017, A7"
+  },
+  {
+    "modelo": "Samsung Galaxy J5 Prime G570",
+    "compativeis": "J5 Pro, Xiaomi Mi6"
+  },
+  {
+    "modelo": "Samsung Galaxy J6 2018",
+    "compativeis": "A8, A8 2018, Asus Zenfone Live L1, Motorola Moto One"
+  },
+  {
+    "modelo": "Samsung Galaxy J6 Plus",
+    "compativeis": "J4 Core, J6 Plus, J6 Core, J8, K12 Plus"
+  },
+  {
+    "modelo": "Samsung Galaxy J7 J700",
+    "compativeis": "J7 Neo, SAM E7, ON 7, J7 Metal"
+  },
+  {
+    "modelo": "Samsung Galaxy J7 Metal J710",
+    "compativeis": "On 7, A7, Zenfone 4"
+  },
+  {
+    "modelo": "Samsung Galaxy J7 Neo J701",
+    "compativeis": "J7, On 7, J7 Metal, Sam E7"
+  },
+  {
+    "modelo": "Samsung Galaxy J7 Prime G610",
+    "compativeis": "J4, J7 Pro"
+  },
+  {
+    "modelo": "Samsung Galaxy J5 Pro J530",
+    "compativeis": "A5 2017"
+  },
+  {
+    "modelo": "Samsung Galaxy J7 Pro J730",
+    "compativeis": "J4, J7 Prime"
+  },
+  {
+    "modelo": "Samsung Galaxy J8",
+    "compativeis": "J4 Plus, J4 Core, J6 Plus, J6 Core, J8, K12 Plus"
+  },
+  {
+    "modelo": "Samsung Galaxy M02",
+    "compativeis": "A12, A20S, A32 5G, M122, Note 9 4G, K50s"
+  },
+  {
+    "modelo": "Samsung Galaxy M10",
+    "compativeis": "G8 Plus, G8 Play, M10s, A10s, Note 6"
+  },
+  {
+    "modelo": "Samsung Galaxy M10S",
+    "compativeis": "A10, A20, A30s, Motorola Moto G8 Plus, G8 Play, M10, Note 7, Note 8"
+  },
+  {
+    "modelo": "Samsung Galaxy M11",
+    "compativeis": "A11, Motorola Moto G8, One Fusion Plus, One Hyer, Note 9 5G"
+  },
+  {
+    "modelo": "Samsung Galaxy M12",
+    "compativeis": "A12, A20s, A32 5G, Note 9 4G, LG K50s"
+  },
+  {
+    "modelo": "Samsung Galaxy M13",
+    "compativeis": "A03S, A03 Core, A12, A13, A03, A32 5G, A42, M12, Motorola Moto G9 Play, G10"
+  },
+  {
+    "modelo": "Samsung Galaxy M14",
+    "compativeis": "A14"
+  },
+  {
+    "modelo": "Samsung Galaxy M20",
+    "compativeis": "M10"
+  },
+  {
+    "modelo": "Samsung Galaxy M21",
+    "compativeis": "A30S, A20, NOTE 8, G8 Plus, K40s, M21s"
+  },
+  {
+    "modelo": "Samsung Galaxy M21s",
+    "compativeis": "A30S, A20, NOTE 8, G8 Plus, K 40s, M21"
+  },
+  {
+    "modelo": "Samsung Galaxy M22",
+    "compativeis": "M31, A20, A30, A30S, A31"
+  },
+  {
+    "modelo": "Samsung Galaxy M23",
+    "compativeis": "A03, A03S, A13, A23, M33, F23, G10, G20, G30"
+  },
+  {
+    "modelo": "Samsung Galaxy M30",
+    "compativeis": "M10S, A50S"
+  },
+  {
+    "modelo": "Samsung Galaxy M31",
+    "compativeis": "A20, A30, A30S, A31, M22, K40S, G8 Play, A51"
+  },
+  {
+    "modelo": "Samsung Galaxy M31S",
+    "compativeis": "A51"
+  },
+  {
+    "modelo": "Samsung Galaxy M32",
+    "compativeis": "M22"
+  },
+  {
+    "modelo": "Samsung Galaxy M42",
+    "compativeis": "A42"
+  },
+  {
+    "modelo": "Samsung Galaxy M51",
+    "compativeis": "M52, M53, M54, A71, A72, Redmi Note 11 Pro, Redmi Note 11 Pro Plus"
+  },
+  {
+    "modelo": "Samsung Galaxy M52",
+    "compativeis": "M53, M54, A70, A71, F54, NOTE 11 PRO"
+  },
+  {
+    "modelo": "Samsung Galaxy M53",
+    "compativeis": "M52, A71, NOTE 11 PRO"
+  },
+  {
+    "modelo": "Samsung Galaxy M54",
+    "compativeis": "M53, A72, F54"
+  },
+  {
+    "modelo": "Samsung Galaxy M55",
+    "compativeis": "M54, M55S, F55, Realme C55"
+  },
+  {
+    "modelo": "Samsung Galaxy M62",
+    "compativeis": "F62"
+  },
+  {
+    "modelo": "Samsung Galaxy On 7",
+    "compativeis": "J7 Metal, On 7, J2 Prime, A5 2017"
+  },
+  {
+    "modelo": "Samsung Galaxy S10",
+    "compativeis": "A11"
+  },
+  {
+    "modelo": "Samsung Galaxy S10 Lite",
+    "compativeis": "A70, A71 5G Note 20, Xiaomi Redmi Note 12 Pro, Poco M3 Pro"
+  },
+  {
+    "modelo": "Samsung Galaxy S20",
+    "compativeis": "A21S, A80, A11, NOTE9, NOTE9S, NOTE10 Lite, M62, Moto G8"
+  },
+  {
+    "modelo": "Samsung Galaxy S20 Lite",
+    "compativeis": "S20fe, A52"
+  },
+  {
+    "modelo": "Samsung Galaxy S20 Plus",
+    "compativeis": "Note 20, Note 10T"
+  },
+  {
+    "modelo": "Samsung Galaxy S20FE",
+    "compativeis": "S20 Lite, A52, A51, A52S, Note 10 4G, Note 11"
+  },
+  {
+    "modelo": "Samsung Galaxy S21",
+    "compativeis": "S21+, A71, A80"
+  },
+  {
+    "modelo": "Samsung Galaxy S21 FE",
+    "compativeis": "S22 Plus"
+  },
+  {
+    "modelo": "Samsung Galaxy S21 Plus",
+    "compativeis": "A71, A81"
+  },
+  {
+    "modelo": "Samsung Galaxy S22 Plus",
+    "compativeis": "A54, S23 Pluus, S23 Fe, S24 Plus"
+  },
+  {
+    "modelo": "Samsung Galaxy S22 Ultra",
+    "compativeis": "S23 Ultra Curva"
+  },
+  {
+    "modelo": "Samsung Galaxy S8",
+    "compativeis": "S9"
+  },
+  {
+    "modelo": "Samsung Galaxy S8+",
+    "compativeis": "S9 Plus"
+  },
+  {
+    "modelo": "Samsung Galaxy S9",
+    "compativeis": "s8"
+  },
+  {
+    "modelo": "Samsung Galaxy S9+",
+    "compativeis": "S8 Plus"
+  },
+  {
+    "modelo": "Motorola Edge 20",
+    "compativeis": "Moto Edge 20 Pro, Edge X30, Edge X30 Pro, Samsung Galaxy A70, A80,"
+  },
+  {
+    "modelo": "Motorola Edge 20 Lite",
+    "compativeis": "Xiaomi Redmi Note 12, Poco X5, Note 10 Pro, Mi11i, Galaxy A80, A70, Moto Edge X"
+  },
+  {
+    "modelo": "Motorola Edge 20 Pro",
+    "compativeis": "Moto Edge 20, Edge X30, Edge X30 Pro, Galaxy A70, A80,"
+  },
+  {
+    "modelo": "Motorola Edge 30",
+    "compativeis": "Moto G84, Xiaomi Redmi 11, Note 11S, Poco M5S, Poco M4 Pro 4G"
+  },
+  {
+    "modelo": "Motorola Edge 30 Pro",
+    "compativeis": "Samsung Galaxy A11, A52, Moto G8, G41, G52, Xiaomi Redmi 11 Lite, Poco M3, Realme"
+  },
+  {
+    "modelo": "Motorola Edge 40 Pro",
+    "compativeis": "Moto Edge Plus"
+  },
+  {
+    "modelo": "Motorola Edge 50 Neo",
+    "compativeis": "Xiaomi Redmi 14, Motorola Edge 30, Moto G05"
+  },
+  {
+    "modelo": "Motorola Edge 50 Pro",
+    "compativeis": "Realme 12 Pro Plus Curva"
+  },
+  {
+    "modelo": "Motorola Edge 50 Ultra",
+    "compativeis": "Edge 30 Ultra, Edge 50 Pro,"
+  },
+  {
+    "modelo": "Motorola Edge 5G UW (2021)",
+    "compativeis": "NÆo encontrado! Talvez esteja dispon¡vel na pr¢xima atualiza‡Æo. Deixe seu coment r"
+  },
+  {
+    "modelo": "Motorola Edge 60 Stylus 5G",
+    "compativeis": "NÆo encontrado! Talvez esteja dispon¡vel na pr¢xima atualiza‡Æo. Deixe seu coment r"
+  },
+  {
+    "modelo": "Motorola Edge Plus",
+    "compativeis": "Moto Edge 30 Ultra, Edge 40 Pro"
+  },
+  {
+    "modelo": "Motorola Edge Plus (2020)",
+    "compativeis": "Edge 30 Ultra, Edge 40 Pro,"
+  },
+  {
+    "modelo": "Motorola Edge S",
+    "compativeis": "Moto G100, Moto G 5G Plus"
+  },
+  {
+    "modelo": "Motorola Edge X30",
+    "compativeis": "Samsung Galaxy A11, A52, Moto G8, G52, G41, G62, Realme C66 Pro, Xiaomi Poco M3"
+  },
+  {
+    "modelo": "Motorola Edge X30 Pro",
+    "compativeis": "Moto X40"
+  },
+  {
+    "modelo": "Motorola Edge+ 5G UW (2022)",
+    "compativeis": "NÆo encontrado! Talvez esteja dispon¡vel na pr¢xima atualiza‡Æo. Deixe seu coment"
+  },
+  {
+    "modelo": "Motorola Moto E13",
+    "compativeis": "A02, A02S"
+  },
+  {
+    "modelo": "Motorola Moto E2",
+    "compativeis": "Moto G1"
+  },
+  {
+    "modelo": "Motorola Moto E20",
+    "compativeis": "E7 Play, G9 Play, G10, G20, G30, One Fusion, A02S, A03, A03S, A23"
+  },
+  {
+    "modelo": "Motorola Moto E22",
+    "compativeis": "A03, A03S, A13"
+  },
+  {
+    "modelo": "Motorola Moto E22S",
+    "compativeis": "G22"
+  },
+  {
+    "modelo": "Motorola Moto E30",
+    "compativeis": "E40, G24, G04, Samsung Galaxy A21, A21S"
+  },
+  {
+    "modelo": "Motorola Moto E32",
+    "compativeis": "Moto G04, G04S, G22, G24, G24 Power, G32, G34, G62, E32S, Xiaomi Poco F3, LG K52"
+  },
+  {
+    "modelo": "Motorola Moto E32S",
+    "compativeis": "Moto G Power, G13"
+  },
+  {
+    "modelo": "Motorola Moto E4",
+    "compativeis": "Moto G5"
+  },
+  {
+    "modelo": "Motorola Moto E4 Play",
+    "compativeis": "Redmi 5"
+  },
+  {
+    "modelo": "Motorola Moto E4 Plus",
+    "compativeis": "Moto G Play"
+  },
+  {
+    "modelo": "Motorola Moto E40",
+    "compativeis": "A72, Redi Note 10 Liite"
+  },
+  {
+    "modelo": "Motorola Moto E5",
+    "compativeis": "Moto G6 Play"
+  },
+  {
+    "modelo": "Motorola Moto E6 Plus",
+    "compativeis": "E6S, Moto G7, G7 Plus, G8 Play, A10, A10s, M10, M20, K22, K40S, Mi 8A, Redmi 8"
+  },
+  {
+    "modelo": "Motorola Moto E6s",
+    "compativeis": "E6 Plus, A10, A10S, M10, M20, K22, K40S, Mi 8A, Redi 8"
+  },
+  {
+    "modelo": "Motorola Moto E7",
+    "compativeis": "E7 Plus, One Fusion, E20, G10, G20, G30, A03, A03S, A03 Core"
+  },
+  {
+    "modelo": "Motorola Moto E7 Plus",
+    "compativeis": "E7 Power, E20, G8 Power Lite, G9 Play, G10, G20, G30, G50 5G, A02S"
+  },
+  {
+    "modelo": "Motorola Moto G 2023",
+    "compativeis": "Moto G Power, E32s"
+  },
+  {
+    "modelo": "Motorola Moto G 5G Plus",
+    "compativeis": "Moto 100, Moto Edge S"
+  },
+  {
+    "modelo": "Motorola Moto G Power",
+    "compativeis": "Moto G 2023, G13"
+  },
+  {
+    "modelo": "Motorola Moto G Power (2025)",
+    "compativeis": "NÆo encontrado! Talvez esteja dispon¡vel na pr¢xima atualiza‡Æo. Deixe seu coment"
+  },
+  {
+    "modelo": "Motorola Moto G Stylus",
+    "compativeis": "G13, G8 Power"
+  },
+  {
+    "modelo": "Motorola Moto G04",
+    "compativeis": "G04S G13, G22, G23, G24, G24 Power, G34, G62, G73, E32, Xiaomi Redmi Note 13, Poco"
+  },
+  {
+    "modelo": "Motorola Moto G04S",
+    "compativeis": "G04 G13, G22, G23, G24, G24 Power, G34, G62, G73, E32, Xiaomi Redmi Note 13, Poco"
+  },
+  {
+    "modelo": "Motorola Moto G1",
+    "compativeis": "Moto E2"
+  },
+  {
+    "modelo": "Motorola Moto G10",
+    "compativeis": "Moto G9, G9 Play, G10 Power, G20, G30, G50, E7, E7 Plus, E7 Power, E20, A02, A02S, A03, A03S,"
+  },
+  {
+    "modelo": "Motorola Moto G100",
+    "compativeis": "Moto G 5G Plus, Edge S, G40, G40 Fusion, G60, G60S"
+  },
+  {
+    "modelo": "Motorola Moto G13",
+    "compativeis": "Moto G14, G22, G23, G32, G34, G53, G54, G71, G73, E32,"
+  },
+  {
+    "modelo": "Motorola Moto G14",
+    "compativeis": "Moto G13, G23, G73, G71, G62, G53, G32, G22, G54"
+  },
+  {
+    "modelo": "Motorola Moto G15",
+    "compativeis": "Moto G15 Power, G75, G35, Xiaomi Redmi Note 9 Pro 4G, Redmi Note 12, Poco X5, Poco X3"
+  },
+  {
+    "modelo": "Motorola Moto G2",
+    "compativeis": "Moto G3"
+  },
+  {
+    "modelo": "Motorola Moto G20",
+    "compativeis": "Moto One Fusion, One Macro, G9 Play, G10 Power, G10, G30, G50, E7, E7 Plus, E7 Powe"
+  },
+  {
+    "modelo": "Motorola Moto G200",
+    "compativeis": "Moto G60, G60S, G40 Fusion, Xiaomi Redmi 10C"
+  },
+  {
+    "modelo": "Motorola Moto G22",
+    "compativeis": "Moto E22, E32, E22S, G04, G04S, G23, G24, G24 Power, G34, LG K62"
+  },
+  {
+    "modelo": "Motorola Moto G23",
+    "compativeis": "Moto G13, G22, G53, G62, G71, G73, E22, E32"
+  },
+  {
+    "modelo": "Motorola Moto G24",
+    "compativeis": "G04, G04S, G13, G22, G23, G24 Power, G32, G34, G62, G73, E32"
+  },
+  {
+    "modelo": "Motorola Moto G24 Power",
+    "compativeis": "G04, G04S, G13, G22, G23, G32, G34, G62, G73, E32"
+  },
+  {
+    "modelo": "Motorola Moto G3",
+    "compativeis": "Moto G2"
+  },
+  {
+    "modelo": "Motorola Moto G30",
+    "compativeis": "Moto One Fusion, One Macro, G9 Play, G10 Power, G10, G50, E7, E7 Plus, E7 Power, E1"
+  },
+  {
+    "modelo": "Motorola Moto G31",
+    "compativeis": "Moto G8, G32, G41, G42, G71, Xiaomi 9T, Redmi Note 11, Redmi Note 10, Samsung Galaxy A52,"
+  },
+  {
+    "modelo": "Motorola Moto G32",
+    "compativeis": "Moto G14, G22, G41, G42, G52, G53, G54, G62, G71, G73, Redmi Note 11"
+  },
+  {
+    "modelo": "Motorola Moto G34",
+    "compativeis": "G04, G04S, E32, G13, G14, G22, G23, G24, G24 Power, G53, G41, G62, G53, G54, G84, Edge 30"
+  },
+  {
+    "modelo": "Motorola Moto G35",
+    "compativeis": "Moto G Power 2024, G15, G75, Edge 20 Lite, Xiomi Note 12, Poco X5, Edge 20 Lite"
+  },
+  {
+    "modelo": "Motorola Moto G40 Fusion",
+    "compativeis": "Moto G60, G60S, G9 Plus, G200"
+  },
+  {
+    "modelo": "Motorola Moto G41",
+    "compativeis": "G31, G52, G70, G71, Xiaomi Redmi Note 10, Redmi Note 11, Realme 7 Pro, Samsung Galaxy A11"
+  },
+  {
+    "modelo": "Motorola Moto G42",
+    "compativeis": "G32, G41, G52, G53, G71, Xiaomi Redmi Note 11"
+  },
+  {
+    "modelo": "Motorola Moto G5 Plus",
+    "compativeis": "Moto G5s"
+  },
+  {
+    "modelo": "Motorola Moto G5 Plus",
+    "compativeis": "G5S, Xiaomi Redmi Note 3"
+  },
+  {
+    "modelo": "Motorola Moto G50 4G",
+    "compativeis": "G50 5G, G10, G20, G30, One Fusion, E7 Plus, K41S, A02S, A14"
+  },
+  {
+    "modelo": "Motorola Moto G50 5G",
+    "compativeis": "G50 4G, G10, G20, G30, One Fusion, E7 Plus, K41S, A02S, A14"
+  },
+  {
+    "modelo": "Motorola Moto G51",
+    "compativeis": "Moto G40 Fusion, G60, G60s"
+  },
+  {
+    "modelo": "Motorola Moto G52",
+    "compativeis": "Moto G32, G41, Redmi Note 10"
+  },
+  {
+    "modelo": "Motorola Moto G53",
+    "compativeis": "Moto G32, G71"
+  },
+  {
+    "modelo": "Motorola Moto G54",
+    "compativeis": "Moto G13, G14, G22, G32, G34, G53, G62, G71, G73"
+  },
+  {
+    "modelo": "Motorola Moto G5G",
+    "compativeis": "G100, LG K71"
+  },
+  {
+    "modelo": "Motorola Moto G5S",
+    "compativeis": "Moto G5 Plus"
+  },
+  {
+    "modelo": "Motorola Moto G5S Plus",
+    "compativeis": "E4 Plus, G5S,"
+  },
+  {
+    "modelo": "Motorola Moto G6 Play",
+    "compativeis": "Moto E5, LG K12 Plus"
+  },
+  {
+    "modelo": "Motorola Moto G60",
+    "compativeis": "Moto G60S, G40 Fusion, G51 5G, G9 Plus,"
+  },
+  {
+    "modelo": "Motorola Moto G60S",
+    "compativeis": "Moto G60, G40 Fusion, G100, G200, G40 Fusion, Xiaomi Redmi 10C,"
+  },
+  {
+    "modelo": "Motorola Moto G62",
+    "compativeis": "Moto G32, G41, G13, G14, G34, G62, G71, G53, G22, G54, Samsung Galaxy A52, Xiaomi"
+  },
+  {
+    "modelo": "Motorola Moto G7",
+    "compativeis": "G7 Plus, G8 Play, Moto E6s, E6 Plus, Moto One Macro"
+  },
+  {
+    "modelo": "Motorola Moto G7 Plus",
+    "compativeis": "Moto G7, G8 Plus, G8 Play"
+  },
+  {
+    "modelo": "Motorola Moto G71",
+    "compativeis": "Moto G13, G22, G31, G32, G41, G53, G54, G62, Redmi Note 11"
+  },
+  {
+    "modelo": "Motorola Moto G71s",
+    "compativeis": "Moto G52, G82, G84, Edge 30, Xiaomi Redmi Note 10, Note 11 SE IN, Note 10s, Note 11S"
+  },
+  {
+    "modelo": "Motorola Moto G72",
+    "compativeis": "Moto G52, G Stylus, Xiaomi Redmi Note 11, Mi 11, Mi 11 Lite, Redmi Note 10, Redmi 10S"
+  },
+  {
+    "modelo": "Motorola Moto G73",
+    "compativeis": "Moto G8, G13, G14, G23, G32, G54, G62, E32, Samsung Galaxy A13 4G, A52, A53, Xiaomi Redmi Note 10 4G, Redmi 11, 11 Lite, Poco M3, Relme C33"
+  },
+  {
+    "modelo": "Motorola Moto G75",
+    "compativeis": "Moto G15, G35, Edge 20 Lite, Xiaomi Redmi Note 12, Poco X5"
+  },
+  {
+    "modelo": "Motorola Moto G8",
+    "compativeis": "One Hyper, One Fusion Plus, A11, M11, Note 9T, Note 9 5G"
+  },
+  {
+    "modelo": "Motorola Moto G8 Play",
+    "compativeis": "Moto G7, G8 lus, E6 Plus, Moto One Macro"
+  },
+  {
+    "modelo": "Motorola Moto G8 Plus",
+    "compativeis": "Moto G7, E6 Plus"
+  },
+  {
+    "modelo": "Motorola Moto G8 Power",
+    "compativeis": "Moto One Hyper, A11, M11"
+  },
+  {
+    "modelo": "Motorola Moto G8 Power Lite",
+    "compativeis": "G9 Play, E7 Power, E7 Plus, A70, Redmi 9, 9C, 9A"
+  },
+  {
+    "modelo": "Motorola Moto G82",
+    "compativeis": "G52, G71S, G84, Edge 30, Samsung Galaxy A51, Xiaomi Redmi Note 10, Note 11, Note 11S"
+  },
+  {
+    "modelo": "Motorola Moto G9 Play",
+    "compativeis": "Moto G10, G20, G30, G50, One Fusion, One Macro, E7, E7 Power, E7 Plus, E13, E20"
+  },
+  {
+    "modelo": "Motorola Moto G9 Plus",
+    "compativeis": "Moto G Stylus 2021, G40 Fusion"
+  },
+  {
+    "modelo": "Motorola Moto G9 Power",
+    "compativeis": "G200"
+  },
+  {
+    "modelo": "Motorola Moto One Action",
+    "compativeis": "One Vision, Moto E7, G10, G20, G30, G9 Play, Redmi 9A 9c"
+  },
+  {
+    "modelo": "Motorola Moto One Fusion",
+    "compativeis": "Xiaomi Redmi 9A Redmi Note 13 Pro Plus, Samsung Galaxy A23, M52, Moto G9 Play, G1"
+  },
+  {
+    "modelo": "Motorola Moto One Fusion Plus",
+    "compativeis": "Xiaomi Redmi Note 13 Pro Plus, Moto One Hyper, Samsung Galaxy A53, M52"
+  },
+  {
+    "modelo": "Motorola Moto One Hyper",
+    "compativeis": "Moto One Fusion Plus, G41, G52, G71, Xiaomi Mi 11 Lite, Realme 77 Pro"
+  },
+  {
+    "modelo": "Motorola Moto One Macro",
+    "compativeis": "Moto G7, G7 Plus, G8 Plus, G8 Play, G10, G30, G50, E6S, E6 Plus, E7, E7 Powe"
+  },
+  {
+    "modelo": "Motorola Moto One Vision",
+    "compativeis": "Moto One Action"
+  },
+  {
+    "modelo": "Motorola Moto One Zoom",
+    "compativeis": "G8 Play, G8 Plus, G7 Plus, Note 7, Note 8, A10, A20, A30, A31, A50, A50S"
+  },
+  {
+    "modelo": "Motorola ThinkPhone (2025)",
+    "compativeis": "NÆo encontrado! Talvez esteja dispon¡vel na pr¢xima atualiza‡Æo. Deixe seu coment r"
+  },
+  {
+    "modelo": "Motorola X30 Pro",
+    "compativeis": "Moto X40"
+  },
+  {
+    "modelo": "Motorola X40",
+    "compativeis": "Edge X30 Pro"
+  },
+  {
+    "modelo": "Nokia C01 Plus",
+    "compativeis": "Nokia C20 - Motorola Moto G60, G100, G40 Fusion"
+  },
+  {
+    "modelo": "Nokia C30",
+    "compativeis": "Nokia G21 -"
+  },
+  {
+    "modelo": "ASUS Zenfone 4 Selfie",
+    "compativeis": "Zenfone Selfe"
+  },
+  {
+    "modelo": "ASUS Zenfone 5",
+    "compativeis": "Zenfone 5Z"
+  },
+  {
+    "modelo": "ASUS Zenfone 5",
+    "compativeis": "Rog Phone 5 Pro, Rog Phone 5S, Rog hone 5S Pro, Rog Phone 5 Ultimate, Sn"
+  },
+  {
+    "modelo": "ASUS Zenfone 5 Selfie",
+    "compativeis": "Zenfone 5 Selfie Pro, Samsung J4 Plus"
+  },
+  {
+    "modelo": "ASUS Zenfone 6",
+    "compativeis": "Motorola Moto One Hyper"
+  },
+  {
+    "modelo": "ASUS Zenfone 6",
+    "compativeis": "Rog Phone 6 Batman Edition, Rog Phone 6D, Rog Phone 6 Pro, Rog Phone 6 Ul"
+  },
+  {
+    "modelo": "ASUS Zenfone 7",
+    "compativeis": "Zenfone 7 Pro, Note 11 Pro"
+  },
+  {
+    "modelo": "ASUS Zenfone 7",
+    "compativeis": "Rog Phone 6, Rog Phone 6 Pro"
+  },
+  {
+    "modelo": "ASUS Zenfone 8",
+    "compativeis": "Zenfone 9"
+  },
+  {
+    "modelo": "ASUS Zenfone 8 Flip",
+    "compativeis": "Zenfone 7"
+  },
+  {
+    "modelo": "ASUS Zenfone 9",
+    "compativeis": "Zenfone 8"
+  },
+  {
+    "modelo": "ASUS Zenfone Max",
+    "compativeis": "Zenfone Max 2016"
+  },
+  {
+    "modelo": "ASUS Zenfone Max 3",
+    "compativeis": "Lenovo K8, Lenovo K8 Plus"
+  },
+  {
+    "modelo": "ASUS Zenfone Max M1",
+    "compativeis": "Zenfone Max M2, Zenfone Max M3, Zenfone Live L1, Zenfone Live L2,"
+  },
+  {
+    "modelo": "ASUS Zenfone Max Plus M2",
+    "compativeis": "Zenfone Max Shot, Xiaomi Mi 8 Lite"
+  },
+  {
+    "modelo": "ASUS Zenfone Max Shot",
+    "compativeis": "Zenfone Max Pro M2, Zenfone Max Plus M2, Xiaomi Mi 8 Lite"
+  },
+  {
+    "modelo": "ASUS Zenfone Shot Plus",
+    "compativeis": "Zenfone Max Shot, Zenfone Max Plus M2"
+  },
+  {
+    "modelo": "Xiaomi 9 SE",
+    "compativeis": "A01 – Mi Play"
+  },
+  {
+    "modelo": "Xiaomi 12 Lite",
+    "compativeis": "Redmi Note 11"
+  },
+  {
+    "modelo": "Xiaomi 12T",
+    "compativeis": "Xiaomi 12T Pro, Xiaomi Black Shark 4s, Poco F4"
+  },
+  {
+    "modelo": "Xiaomi Mi 10 Lite",
+    "compativeis": "Poco M2 Pro, Poco X3"
+  },
+  {
+    "modelo": "Xiaomi Mi 11",
+    "compativeis": "Mi 11 Pro – Mi 11 Ultra"
+  },
+  {
+    "modelo": "Xiaomi Mi 11T Pro",
+    "compativeis": "Redmi Note 11 Pro"
+  },
+  {
+    "modelo": "Xiaomi Mi 8",
+    "compativeis": "Mi 8 Pro"
+  },
+  {
+    "modelo": "Xiaomi Mi 9",
+    "compativeis": "Mi 9 Lite – Redmi 8 – Redmi 8A – Redmi 8A Pro"
+  },
+  {
+    "modelo": "Xiaomi Mi 9Lite",
+    "compativeis": "Mi 9 -- Redmi 8 – Redmi 8A – Redmi 8A Pro"
+  },
+  {
+    "modelo": "Xiaomi Mi 9se",
+    "compativeis": "A01, Mi Play"
+  },
+  {
+    "modelo": "Xiaomi Mi 9T",
+    "compativeis": "Redmi K20, Redmi 20 RO"
+  },
+  {
+    "modelo": "Xiaomi Mi A1",
+    "compativeis": "K10 Power – Note 5A Prime"
+  },
+  {
+    "modelo": "Xiaomi Mi A2",
+    "compativeis": "Redmi Note 5 – Redmi 5 Plus – A8 Plus – J8 – S2"
+  },
+  {
+    "modelo": "Xiaomi Mi A2 Lite",
+    "compativeis": "Redmi 6 Pro - Redmi 6 Lite"
+  },
+  {
+    "modelo": "Xiaomi Mi Go",
+    "compativeis": "J2 Core"
+  },
+  {
+    "modelo": "Xiaomi Poco C31",
+    "compativeis": "Redmi 9A – Redmi 9Activ – Redmi 9A Sport – Redmi 9C – Redmi 10A – A12"
+  },
+  {
+    "modelo": "Xiaomi Poco C31",
+    "compativeis": "Redmi 9A, Redmi 9Activ, Redmi 9A Sport, Redmi 9C, Samsung Galaxy A12, 10A"
+  },
+  {
+    "modelo": "Xiaomi Poco C40",
+    "compativeis": "Poco C55 – Poco C61 – Redmi 10C – Redmi 10 Power – Redmi 12C – Redmi A3"
+  },
+  {
+    "modelo": "Xiaomi Poco C61",
+    "compativeis": "Poco C40 – Poco C55 – Redmi 10C – Redmi 10 Power – Redmi 12C – Redmi A3"
+  },
+  {
+    "modelo": "Xiaomi Poco C65",
+    "compativeis": "Redmi 13C – Samsung A05"
+  },
+  {
+    "modelo": "Xiaomi Poco F3",
+    "compativeis": "F4 – Poco M3 – Note 11 Pro – A71 – G22"
+  },
+  {
+    "modelo": "Xiaomi Poco F4",
+    "compativeis": "F3, F4 GT, Poco M3 NFC, X4 Pro, M3, M4 Pro 5G, A72"
+  },
+  {
+    "modelo": "Xiaomi Poco F4 5G",
+    "compativeis": "Redmi Note 11 Pro"
+  },
+  {
+    "modelo": "Xiaomi Poco M2 Pro",
+    "compativeis": "Poco X3, Mi 10 Lite"
+  },
+  {
+    "modelo": "Xiaomi Poco M3",
+    "compativeis": "A20S, Note 9 4G"
+  },
+  {
+    "modelo": "Xiaomi Poco M3 Pro",
+    "compativeis": "Redmi Note 8T"
+  },
+  {
+    "modelo": "Xiaomi Poco M4",
+    "compativeis": "Samsung A03, A03S, A03 Core, A12"
+  },
+  {
+    "modelo": "Xiaomi Poco M4 pro",
+    "compativeis": "Note 10 4G, Note 11"
+  },
+  {
+    "modelo": "Xiaomi Poco M5",
+    "compativeis": "Redmi 10A, Samsung A12"
+  },
+  {
+    "modelo": "Xiaomi Poco M5s",
+    "compativeis": "Redmi Note 10"
+  },
+  {
+    "modelo": "Xiaomi Poco X3",
+    "compativeis": "Poco X4 Pro, Note 9s, Note 9 Pro"
+  },
+  {
+    "modelo": "Xiaomi Poco X3 Pro",
+    "compativeis": "Poco X3"
+  },
+  {
+    "modelo": "Xiaomi Poco x4Pro",
+    "compativeis": "Poco X3, Note 9s, Note 9 Pro"
+  },
+  {
+    "modelo": "Xiaomi Poco X5",
+    "compativeis": "Poco X3, Poco X4 Pro, Note 9s, Note 9 Pro, Note 12"
+  },
+  {
+    "modelo": "Xiaomi Poco X5 Pro",
+    "compativeis": "A71"
+  },
+  {
+    "modelo": "Xiaomi Redmi 10 Power",
+    "compativeis": "Redmi 10C, Redmi 12C"
+  },
+  {
+    "modelo": "Xiaomi Redmi 10A",
+    "compativeis": "A02"
+  },
+  {
+    "modelo": "Xiaomi Redmi 10C",
+    "compativeis": "Redmi 12c, Redmi 10 Power"
+  },
+  {
+    "modelo": "Xiaomi Redmi 11 Prime",
+    "compativeis": "Redmi 10 5G – Redmi Note 11R"
+  },
+  {
+    "modelo": "Xiaomi Redmi 12",
+    "compativeis": "Redmi 13 – Redmi Note 12R – Redmi Note 13R – Poco M6 4G – Poco M6 Pro 5G"
+  },
+  {
+    "modelo": "Xiaomi Redmi 12C",
+    "compativeis": "Redmi 10C – Redmi 10 Power – Redmi A3 – Poco C40 – Poco C55 – Poco C61"
+  },
+  {
+    "modelo": "Xiaomi Redmi 13",
+    "compativeis": "Redmi 12 – Redmi Note 12R – Redmi Note 13R – Poco M6 4G – Poco M6 Pro 5G"
+  },
+  {
+    "modelo": "Xiaomi Redmi 13C",
+    "compativeis": "Poco C65 – Samsung A05 – A05S"
+  },
+  {
+    "modelo": "Xiaomi Redmi 14C",
+    "compativeis": "Redmi 14R – Infinix Hot 10 Play"
+  },
+  {
+    "modelo": "Xiaomi Redmi 5",
+    "compativeis": "Samsung A8 2018"
+  },
+  {
+    "modelo": "Xiaomi Redmi 8",
+    "compativeis": "Redmi 8A, Samsung A10"
+  },
+  {
+    "modelo": "Xiaomi Redmi 8A",
+    "compativeis": "Samsung A10, A10S, LG K40s, Moto E6S, Moto E6 Plus"
+  },
+  {
+    "modelo": "Xiaomi Redmi 9",
+    "compativeis": "Redmi 9 Power, Samsung A20s"
+  },
+  {
+    "modelo": "Xiaomi Redmi 9A",
+    "compativeis": "9C, 9i, 9i Sport, LG K50S, Samsung A12, A20s, A23"
+  },
+  {
+    "modelo": "Xiaomi Redmi 9C",
+    "compativeis": "9A, 9i, 9i Sport, LG K50S, Samsung A12, A20s, A23"
+  },
+  {
+    "modelo": "Xiaomi Redmi 9I",
+    "compativeis": "9A, 9C, 9i Sport, LG K50S, Samsung A12, A20s, A23"
+  },
+  {
+    "modelo": "Xiaomi Redmi 9T",
+    "compativeis": "Redmi Note 8, Redmi Note 9 4G, Poco M3"
+  },
+  {
+    "modelo": "Xiaomi Redmi A1",
+    "compativeis": "Redmi A2 – Redmi 9A – Redmi 9C – Redmi 9i – Redmi 10A – Poco C31 – Poco C3"
+  },
+  {
+    "modelo": "Xiaomi Redmi A3",
+    "compativeis": "Redmi 10C – Redmi 12C – Redmi 10 Power – Poco C40 – Poco C55 – Poco C61"
+  },
+  {
+    "modelo": "Xiaomi Redmi K50",
+    "compativeis": "Redmi K50i – Redmi K50 Pro"
+  },
+  {
+    "modelo": "Xiaomi Redmi K50",
+    "compativeis": "Redmi K50i, K50 Pro"
+  },
+  {
+    "modelo": "Xiaomi Redmi K50 Pro",
+    "compativeis": "Redmi K50"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 10",
+    "compativeis": "Note 10s, Note 11, Samsung S20 FE"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 10 5G",
+    "compativeis": "Redmi 11 Prime, Note 11R"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 10 Lite",
+    "compativeis": "Redmi Note 9S – Redmi Note 9 Pro – Redmi Note 9 Pro Max – Redmi Note 12 – Poco X5"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 10s",
+    "compativeis": "Note 11 SE IN, G71s"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 11",
+    "compativeis": "Redmi Note 10 4G – Redmi Note 10S – Redmi Note 11S – Redmi Note 12S – Poco M4 Pro 4G"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 11 5g",
+    "compativeis": "Note 11 T 5G, Poco M4 Pro 5G"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 11 Pro",
+    "compativeis": "Redmi Note 10 Pro 4G – Redmi Note 12 Pro 4G"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 11R",
+    "compativeis": "Redmi 10 5G – Redmi 11 Prime"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 12",
+    "compativeis": "Redmi Note 9S – Redmi Note 9 Pro – Redmi Note 9 Pro Max – Redmi Note 10 Lite – Poco X5 – Redmi Note 9 Pro Max – Redmi Note 10 Lite"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 12 Pro 4G",
+    "compativeis": "Note 11 Pro"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 12 Turbo",
+    "compativeis": "Note 13 5G – Note 13 Pro 4G – Note 13 Pro 5G – Note 13 Pro Plus – Poco X6 – Poco X6 Pro – Poco M6 Pro – Poco F5"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 12S",
+    "compativeis": "Redmi Note 10 4G – Redmi Note 10S – Redmi Note 11 – Redmi Note 11S – Poco M4 Pro 4G"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 13 5G",
+    "compativeis": "Note 13 Pro 4G – Note 13 Pro 5G – Note 13 Pro Plus – Note 12 Turbo – Poco X6 – Poco X6 Pro – Poco M6 Pro – Poco F5"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 13 Pro 4G",
+    "compativeis": "Note 13 5G – Note 13 Pro 5G – Note 13 Pro Plus – Note 12 Turbo – Poco X6 – Poco X6 Pro – Poco M6 Pro – Poco F5"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 13 Pro 5G",
+    "compativeis": "Note 13 Pro 4G – Note 13 5G – Note 13 Pro Plus – Note 12 Turbo – Poco X6 – Poco X6 Pro – Poco M6 Pro – Poco F5"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 14 4G",
+    "compativeis": "Xiaomi Mi 11 – Poco X5 Pro 5G – Realme 13 4G – Realme 12 5G – Oppo Reno 12F 4G – Oppo Reno 12F"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 6 pro",
+    "compativeis": "Poco 11, Iphone XS Max, iPhone 11 Pro Max"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 7",
+    "compativeis": "Note 7s, Note 8, Samsung A20, A30, A50, A50S, LG K12 Max, K12 Prime"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 8",
+    "compativeis": "Note 8 2021 -- Note 7, Samsung A20, A30, Moto G7, G7 Plus, G8 Plus, G8 Play"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 8T",
+    "compativeis": "Redmi 9 Redmi Note 9 4G"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 9",
+    "compativeis": "Redmi Note 9T – Redmi Note 9 5G"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 9",
+    "compativeis": "Samsung M12, A12 -- Redmi Note 9T – Redmi Note 9 5G"
+  },
+  {
+    "modelo": "Xiaomi Redmi Note 9S",
+    "compativeis": "Redmi Note 9 Pro – Redmi Note 9 Pro Max – Redmi Note 10 Lite – Redmi Note 12 – Poco X5 -- Poco X3, LG K41s"
+  },
+  {
+    "modelo": "Xiaomi Redmi Poco M2",
+    "compativeis": "Poco M3, Redmi 9T, Redmi Note 9 4G"
+  },
+  {
+    "modelo": "Oppo A36",
+    "compativeis": "Oppo A76, Samsung A21s"
+  },
+  {
+    "modelo": "Oppo A56s",
+    "compativeis": "C33, A02, A02s, A03"
+  },
+  {
+    "modelo": "Oppo A76",
+    "compativeis": "Oppo A36, Samsung A21s"
+  },
+  {
+    "modelo": "Oppo A78",
+    "compativeis": "Oppo A56, Oppo A1X"
+  },
+  {
+    "modelo": "Oppo A98",
+    "compativeis": "Oppo A23"
+  },
+  {
+    "modelo": "Oppo Realme C55",
+    "compativeis": "Redmi Note 12"
+  },
+  {
+    "modelo": "Oppo Realme GT 2",
+    "compativeis": "Realme GT Pro, Redmi Note 9T, Samsung A21s"
+  },
+  {
+    "modelo": "Oppo Realme GT 2 Pro",
+    "compativeis": "Redmi Note 9T, Samsung A21s"
+  },
+  {
+    "modelo": "Oppo Realme GT Master",
+    "compativeis": "Realme 9, Realme 10"
+  },
+  {
+    "modelo": "Oppo Realme Narzo 30 Pro",
+    "compativeis": "Realme 7, Realme 7 5G, Realme 7 Pro, Redmi K30 Ultra"
+  },
+  {
+    "modelo": "Oppo Realme 10",
+    "compativeis": "Realme 9"
+  },
+  {
+    "modelo": "Oppo Realme 10S",
+    "compativeis": "Realme 7i Global"
+  },
+  {
+    "modelo": "Oppo Realme 6",
+    "compativeis": "Realme 6s, Realme 7, Realme Narzo 30 Pro, Redmi K30 Ultra"
+  },
+  {
+    "modelo": "Oppo Realme 7",
+    "compativeis": "Realme 7 5G, Realme 7 Pro, Redmi K30 Ultra"
+  },
+  {
+    "modelo": "Oppo Realme 7i",
+    "compativeis": "Ásia, Realme Q3s"
+  },
+  {
+    "modelo": "Oppo Realme 7i Global",
+    "compativeis": "Galaxy A12, Galaxy M12, Galaxy A32 5G"
+  },
+  {
+    "modelo": "Oppo Realme 8",
+    "compativeis": "Realme 8 Pro"
+  },
+  {
+    "modelo": "Oppo Realme 8 5G",
+    "compativeis": "Realme 8S"
+  },
+  {
+    "modelo": "Oppo Realme 8 Pro",
+    "compativeis": "Reno 7 5G"
+  },
+  {
+    "modelo": "Oppo Realme 8S",
+    "compativeis": "Realme 8S"
+  },
+  {
+    "modelo": "Oppo Realme 9",
+    "compativeis": "Realme 9 Pro Plus"
+  },
+  {
+    "modelo": "Oppo Realme 9 5G",
+    "compativeis": "Realme 9 Pro, Realme 9i, Realme 9i 5G, Realme 9 SE"
+  },
+  {
+    "modelo": "Oppo Realme 9 Pro Plus",
+    "compativeis": "Realme 9"
+  },
+  {
+    "modelo": "Oppo Realme 9i",
+    "compativeis": "Realme 9 SE, Realme 9 5G"
+  },
+  {
+    "modelo": "Oppo Realme C11",
+    "compativeis": "G9 Play, Moto G10, G10 Power, Moto G20, Moto G30, E7 Plus, E7 Power, E20, A13, K41S, One Fusion"
+  },
+  {
+    "modelo": "Oppo Realme C21Y",
+    "compativeis": "C25, C30, C30s, C31, C33, C33 2023, C35, 50A, Samsung A02, A02s, A03, A03s, A03 Core, A04s, A04e, A12, A13 5G, Samsung A32 5G, M12, Moto G9 Play, Moto G20, Moto E20, Moto One Fusion"
+  },
+  {
+    "modelo": "Oppo Realme C33",
+    "compativeis": "C33 2023, C21Y, C25, C30, C30s, C31, C33, 50A, Samsung A02, A02s, A03, A03s, A03 Core, A04s, A04e, A12, A13 5G, Samsung A32 5G, M12, Moto G9 Play, Moto G20, Moto E20, Moto One Fusion"
+  },
+  {
+    "modelo": "Oppo Realme C35",
+    "compativeis": "Realme C21Y, A02, A02s, A03, A03s, A12 5G, M12"
+  },
+  {
+    "modelo": "Oppo Realme C51",
+    "compativeis": "Realme C53, Redmi 13C, A05"
+  },
+  {
+    "modelo": "Oppo Realme C53",
+    "compativeis": "Realme C51, Redmi 13C, A05"
+  },
+  {
+    "modelo": "Xiaomi Poco F5",
+    "compativeis": "Poco X6, Poco X6 Pro, Poco M6 Pro,  Note 12 Turbo, Note 13 5G, Note 13 Pro 4G, Note 13 Pro 5G, Note 13 Pro Plus"
+  },
+  {
+    "modelo": "Samsung A05S",
+    "compativeis": "A05 – A07 – Samsung M05 – Samsung F05 – Redmi 13C – Poco C65"
+  },
+  {
+    "modelo": "Moto G04S",
+    "compativeis": "G04 – G22 – G24 – G24 Power – G34 – E32"
+  },
+  {
+    "modelo": "Moto E6I",
+    "compativeis": "E6 Plus – E6s"
+  },
+  {
+    "modelo": "Moto G84",
+    "compativeis": "Edge 30 – G54 – G14"
+  },
+  {
+    "modelo": "Poco C55",
+    "compativeis": "Poco C40 – Poco C61 – Redmi 10C – Redmi 10 Power – Redmi 12C – Redmi A3"
+  },
+  {
+    "modelo": "Samsung M35",
+    "compativeis": "Galaxy A35 – Galaxy A55"
+  },
+  {
+    "modelo": "Redmi A3X",
+    "compativeis": "Redmi A3 – Redmi 10C – Redmi 12C – Redmi 10 Power – Poco C40 – Poco C55 – Poco C61"
+  },
+  {
+    "modelo": "Moto Edge 50",
+    "compativeis": "Edge 50 Pro – Edge X50 Ultra – Edge Ultra"
+  },
+  {
+    "modelo": "Moto G35",
+    "compativeis": "G75 – G15 – Moto G Power 2024 – Realme C75"
+  },
+  {
+    "modelo": "Poco C75",
+    "compativeis": "Redmi 14R – Redmi 14C"
+  },
+  {
+    "modelo": "Moto E14",
+    "compativeis": "E22s – G24 Power – G24 – G04"
+  },
+  {
+    "modelo": "Samsung A13 5G",
+    "compativeis": "A12 – A04e – A04s – A03 Core – A03 – A03s – A32 5G – M12 – Moto G9 Play – Moto G20 – Moto E20 – Moto One Fusion – Realme 50A – Realme C33 – Realme C33 2023 – Realme C31 – Realme C30 – Realme C30s – Realme C25 – Realme C21Y"
+  },
+  {
+    "modelo": "Samsung A25",
+    "compativeis": "Samsung A24 – A34 – A15 – Samsung F34"
+  },
+  {
+    "modelo": "Samsung A22 5G",
+    "compativeis": "Samsung A14 5G – Samsung F42"
+  },
+  {
+    "modelo": "Samsung M34",
+    "compativeis": "Samsung A24 – Samsung A25 – Samsung F34"
+  },
+  {
+    "modelo": "Redmi A5",
+    "compativeis": "Redmi 14C – Redmi 14R – Redmi A3 Pro – Poco C71 – Poco C75 – Infinix Hot 10 Play"
+  },
+  {
+    "modelo": "Redmi 13C 5G",
+    "compativeis": "Redmi 13C – Poco C65 – Redmi 13R – Redmi A3 – Poco M6 – Samsung A05 – Samsung A05s"
+  },
+  {
+    "modelo": "Moto G75",
+    "compativeis": "Moto G56 – Realme C75"
+  },
+  {
+    "modelo": "Moto G56",
+    "compativeis": "G75 – G35 – G15 – G05"
+  },
+  {
+    "modelo": "Note 60",
+    "compativeis": "Poco M6"
+  },
+  {
+    "modelo": "Iphone 16 Plus",
+    "compativeis": "iPhone 15 Plus – iPhone 14 Pro Max"
+  },
+  {
+    "modelo": "Iphone 13 Pro",
+    "compativeis": "iPhone 13 – iPhone 14"
+  },
+  {
+    "modelo": "Redmi 15C",
+    "compativeis": "Redmi 14C – Redmi A5 – Poco C71 – Poco C75 – Poco M7"
+  }
+]
